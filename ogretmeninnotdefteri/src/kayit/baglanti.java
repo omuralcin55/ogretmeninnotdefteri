@@ -9,6 +9,8 @@ package kayit;
  * @author GOGO
  */
 public class baglanti {
+    int sayi;
+    
     
     
 }
